@@ -1,0 +1,31 @@
+.Room {
+    height: 100%;
+}
+
+button {
+    width: 111px;
+    background-color: #F4F6F5;
+    font-family: Roboto;
+    font-size: 15px;
+    border-radius: 4px;
+    border: 2px solid #EDEDED;
+    margin: 5px;
+}
+
+input {
+    border-radius: 4px;
+}
+
+.main {
+    font-family: Roboto;
+    margin: 16px auto;
+    width: 95vw;
+    height: 80%;
+    outline: solid #dddddd;
+    padding: 30px;
+}
+
+.newQuestion {
+    display: flex;
+    justify-content: center;
+}

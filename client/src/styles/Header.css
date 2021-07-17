@@ -1,0 +1,44 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-height: 10%;
+    outline: solid #dddddd;
+    padding: 12px 0;
+    align-items: center;
+}
+
+.logo {
+    font-family: Roboto;
+    font-weight: bold;
+    color: #000000;
+    font-size: 60px;
+    margin-left: 20px;
+    margin-right: 150px;
+}
+
+.header_control {
+    display: inline-flex;
+    align-items: center;
+}
+
+.tagMenu {
+    margin: 0px 20px 20px 20px;
+}
+
+.form-group {
+    font-family: Roboto;
+    font-weight: bold;
+    text-align: center;
+    width: 150px;
+}
+
+.form-control {
+    text-align: center !important;
+    background-color: #F4F6F5 !important;
+    border: 2px solid #EDEDED !important;
+}
+
+.addTag, .addQuestion {
+    margin: 20px;
+}

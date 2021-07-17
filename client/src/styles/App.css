@@ -1,0 +1,31 @@
+.App {
+  height: 100%;
+  overflow: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App__Menu {
+  overflow: auto;
+  margin: auto;
+  text-align: center;
+}
+
+.App__Label {
+  display: flex;
+  flex-direction: column;
+}
+
+.lobbyButtons {
+  width: 111px;
+  background-color: #F4F6F5;
+  font-family: Roboto;
+  font-size: 15px;
+  border-radius: 4px;
+  border: 2px solid #625F5F;
+  margin: 5px;
+}
